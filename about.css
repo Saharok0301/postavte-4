@@ -1,0 +1,13 @@
+#foto {
+    position: relative;
+    width: 300px;
+    height: 100px;
+}
+
+#foto, #foto1 {
+    position: relative;
+
+}
+#foto1 {
+ top: -100px;   
+}

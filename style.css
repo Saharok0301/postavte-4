@@ -1,0 +1,26 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+    font-family: "Nunito", sans-serif;
+
+
+}
+body {
+  width: 100%;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: url(img/bg.jpg) no-repeat
+  center/cover; 
+
+  border-image:  fill 0 linear-gradient(#0009, #000);
+}
+
+
+h1 {
+  color: #fff;
+  font-size: 8vw;
+
+
+}
